@@ -1,3 +1,2 @@
 # DigitalImageProcessing
-
-=== USC EE 569
+===USC EE 569
