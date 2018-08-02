@@ -7,7 +7,7 @@ USC has very interesting history in the field of Computer vision. Being a part o
 
 I. **Image Manipulation (Implemented in C++)**
 
-A.  Color Space Transformation
+A. Color Space Transformation
    
    -Color to GrayScale Conversion
      
@@ -24,6 +24,7 @@ B. Image Filtering - Creating Oil Paint Effect
 C. Image Filtering - Creating Film Effect
 
 III. **Noise Removal(Implemented in C++, MATLAB)**
+
 A. Mix noise in color image
 
 B. Principal Component Analysis
