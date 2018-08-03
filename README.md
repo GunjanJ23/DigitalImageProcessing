@@ -2,6 +2,9 @@
 
 USC has very interesting history in the field of Computer vision. Being a part of the legacy, this git contains my work done as a part of the course EE 569- Digital Image Processing taught by Prof C.C Jay Kuo.
 
+![alt text](https://github.com/GunjanJ23/DigitalImageProcessing/blob/master/lena.jpg)
+
+*Quick History Lesson*: Alexander Sawchuk estimates that it was in June or July of 1973 when he, then an assistant professor of electrical engineering at the **University of Southern California** Signal and Image Processing Institute (SIPI), along with a graduate student and the SIPI lab manager, was hurriedly searching the lab for a good image to scan for a colleague's conference paper. They got tired of their stock of usual test images, dull stuff dating back to television standards work in the early 1960s. They wanted something glossy to ensure good output dynamic range, and they wanted a human face. Just then, somebody happened to walk in with a recent issue of Playboy.
   
 # Project 1
 
