@@ -1,4 +1,4 @@
-## The following steps will guide you to execute the files that are contained in Homework 1 folder.
+## The following steps will guide you to execute the files that are contained in Homework 2 folder.
 
 
 
