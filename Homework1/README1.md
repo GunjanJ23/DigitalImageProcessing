@@ -6,7 +6,7 @@
 
 2.The input images on which the computation is performed must be present in the current folder.
 
-3.Open terminal. Do cd <address of the folder>.
+3.Open terminal. Do ```cd address of the folder```.
   
 4.Type 'make'. Press Enter.
 
